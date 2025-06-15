@@ -1,6 +1,6 @@
 //Mendoza Hanna
 //Comision 1
-//Limk
+//https://youtu.be/AvAVs4K90n0
 PImage imagen;
 
 //400(pantalla) / 14(cantidad de circulos) =28.5
